@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[foi:home|Door43 (foi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-foi|d43-foi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-foi/archive/master.zip|d43-foi.zip]]
+
+**Recent Changes**
+{{changes>ns = foi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/foi|Ethnologue data]]
+
